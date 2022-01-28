@@ -1,0 +1,25 @@
+Credits for the data provided.
+
+Daily change in cases by PHU in Ontario.
+
+https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario
+
+
+COVID-19 Vaccine Data in Ontario.
+
+https://data.ontario.ca/dataset/covid-19-vaccine-data-in-ontario
+
+
+Confirmed positive cases of COVID19 in Ontario.
+
+https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario
+
+
+Cases by status and phu in Ontario.
+
+https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario-by-public-health-unit-phu
+
+
+Covid testing in Ontario.
+
+https://data.ontario.ca/dataset/status-of-covid-19-cases-in-ontario
